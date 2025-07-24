@@ -1,24 +1,23 @@
 <div style="border:3px solid #ff0077; border-radius:16px; padding:2em; margin-bottom:2em;">
-  <h1 align="center">👋 Hi, I'm </h1>
+  <h1 align="center">👋 Hi, I'm pmoreira</h1>
   <p align="center">
-    <!-- Intro goes here -->
+    I'm a Computer Engineering student and a developer. 
   </p>
 </div>
 
 <div style="border:3px solid #0077ff; border-radius:16px; padding:2em; margin-bottom:2em;">
   <h2>🧑‍💻 About Me</h2>
   <ul>
-    <li>Background:</li>
-    <li>Interests:</li>
-    <li>Fun fact:</li>
+    <li>Background:IFCE, 2 years of Computer Engineering; ULHT, 1 year of Computer Engineering</li>
+    <li>Interests: Cybersecurity.</li>
   </ul>
 </div>
 
 <div style="border:3px solid #00ff77; border-radius:16px; padding:2em; margin-bottom:2em;">
   <h2>🚀 Skills & Technologies</h2>
   <p>
-    <strong>Languages:</strong> <br>
-    <strong>Frameworks:</strong> <br>
+    <strong>Languages:C, Python, Java</strong> <br>
+    <strong>Frameworks:Django</strong> <br>
     <strong>Tools:</strong> <br>
     <!-- Skill badges go here -->
   </p>
@@ -27,7 +26,7 @@
 <div style="border:3px solid #ff7700; border-radius:16px; padding:2em; margin-bottom:2em;">
   <h2>📦 Projects</h2>
   <ul>
-    <li><a href="">Project Name</a> — Description</li>
+    <li><a href="">Minishell</a> — Description</li>
     <!-- Add more projects -->
   </ul>
 </div>
@@ -63,7 +62,6 @@
   <ul>
     <li>Email:</li>
     <li><a href="">LinkedIn</a></li>
-    <li><a href="">Twitter/X</a></li>
     <li><a href="">Website</a></li>
   </ul>
 </div>
