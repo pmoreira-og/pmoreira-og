@@ -26,7 +26,7 @@
 <div style="border:3px solid #ff7700; border-radius:16px; padding:2em; margin-bottom:2em;">
   <h2>📦 Projects</h2>
   <ul>
-    <li><a href="https://github.com/pmoreira-og/Minishell">Minishell</a> — Description</li>
+    <li><a href="https://github.com/pmoreira-og/42_Minishell">Minishell</a> — Done</li>
     <!-- Add more projects -->
   </ul>
 </div>
