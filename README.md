@@ -21,7 +21,7 @@
     <strong>Languages:C, Python, Java</strong> <br>
     <strong>Frameworks:Django</strong> <br>
     <strong>Tools:</strong> <br>
-    <!-- Skill badges go here -->
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
   </p>
 </div>
 
@@ -63,7 +63,8 @@
   <h2>📫 Contact & Socials</h2>
   <ul>
     <li>Email:</li>
-    <li><a href="">LinkedIn</a></li>
+    <li><a href="">LinkedIn</a> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+	</li>
     <li><a href="">Website</a></li>
   </ul>
 </div>
