@@ -26,7 +26,7 @@
 <div style="border:3px solid #00ff77; border-radius:16px; padding:2em; margin-bottom:2em;">
   <h2>🚀 Skills & Technologies</h2>
   <p>
-    <strong>Languages:C, Python, Java</strong> <br>
+    <strong>Languages:C, C++, Python, Java</strong> <br>
     <strong>Frameworks:Django</strong> <br>
     <strong>Tools:</strong> <br>
     <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
