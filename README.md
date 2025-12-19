@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="imgs/background.jpg" alt="Background" width="100%"/>
+</div>
+
 <div style="border:3px solid #ff0077; border-radius:16px; padding:2em; margin-bottom:2em;">
   <h1 align="center">👋 Hi, I'm pmoreira</h1>
   <p align="center">
