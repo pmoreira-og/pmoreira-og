@@ -62,10 +62,6 @@
     <!-- Contribution graph -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmoreira-og&theme=react-dark" alt="Contribution Graph"/>
     <br>
-    <!-- GitHub streak card -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmoreira-og&theme=radical" alt="GitHub Streak"/>
-    <br>
-    
   </p>
 </div>
 
